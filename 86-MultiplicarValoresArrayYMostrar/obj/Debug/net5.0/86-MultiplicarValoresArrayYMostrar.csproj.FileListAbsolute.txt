@@ -1,0 +1,15 @@
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.deps.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.runtimeconfig.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.runtimeconfig.dev.json
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\ref\86-MultiplicarValoresArrayYMostrar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\bin\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.AssemblyInfoInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.AssemblyInfo.cs
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\ref\86-MultiplicarValoresArrayYMostrar.dll
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\86-MultiplicarValoresArrayYMostrar\obj\Debug\net5.0\86-MultiplicarValoresArrayYMostrar.genruntimeconfig.cache
